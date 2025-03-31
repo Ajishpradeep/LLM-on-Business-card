@@ -1,0 +1,56 @@
+# folders
+business_card_db/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Python specific
+*.pyc
+*.pyo
+*.pyd
+.Python
+.python*
+*.so
+*.egg
+*.egg-info/
+.eggs/
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+.pytest_cache/
+.mypy_cache/
+.pyre/
+.pytype/
+.gradio
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment files
+*.env
+.env.*
+env/
+venv/
+ENV/
+
+# Distribution / packaging
+.Python
+develop-eggs/
+downloads/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
